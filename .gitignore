@@ -3,7 +3,8 @@
 __pycache__
 submitted
 apriori_lib.py
-classification.py
 classification_dt_lib.ipynb
 dmbi_manual.pdf
 test.ipynb
+test.py
+datasets
