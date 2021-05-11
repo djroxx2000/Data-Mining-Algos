@@ -3,7 +3,7 @@ Written during third year of Bachelor's of Engineering in Information Technology
 
 ---
 
-## 1. Apriori Algorithm
+## 1. Association Rule Mining (Apriori)
 Algorithm to generate frequent itemsets of increasing size with a given minimum support count constraint along with association rules for the same with a given minimum confidence constraint. Every iteration generates itemsets with one extra item.
 Dataset Used: Shopping transactions to analyze associations between purchase of certain items
 
